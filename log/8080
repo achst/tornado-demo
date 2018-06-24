@@ -1,0 +1,10 @@
+[I 180624 10:33:07 main:43] Server running on 8080
+[W 180624 10:33:10 grace:12] Caught signal: 2, <frame object at 0x109457240>
+[I 180624 10:33:10 grace:16] Stopping http server
+[I 180624 10:33:10 grace:19] IOLoop will shutdown in 3 seconds ...
+[I 180624 10:33:10 grace:28] Shutdown completed
+[I 180624 10:33:13 main:43] Server running on 8080
+[W 180624 10:33:15 grace:12] Caught signal: 2, <frame object at 0x10209b240>
+[I 180624 10:33:15 grace:16] Stopping http server
+[I 180624 10:33:15 grace:19] IOLoop will shutdown in 3 seconds ...
+[I 180624 10:33:15 grace:28] Shutdown completed

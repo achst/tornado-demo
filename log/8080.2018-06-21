@@ -1,0 +1,5 @@
+[I 180621 18:48:04 main:43] Server running on 8080
+[W 180621 18:48:09 grace:12] Caught signal: 2, <frame object at 0x10d1a9a00>
+[I 180621 18:48:09 grace:16] Stopping http server
+[I 180621 18:48:09 grace:19] IOLoop will shutdown in 3 seconds ...
+[I 180621 18:48:09 grace:28] Shutdown completed
